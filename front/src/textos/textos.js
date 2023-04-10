@@ -1,0 +1,3 @@
+export const guiaTexto1 ="En la página principal, puedes ver un campo de búsqueda en la parte superior. Ingresa el número del personaje que deseas buscar y presiona 'Enter'."
+export const guiaTexto2="Una vez que encuentres un personaje que te guste, puedes guardarlo en tus favoritos haciendo clic en el icono de corazón debajo de su imagen."
+export const guiaTexto3="Para acceder a tus personajes favoritos, haz clic en la pestaña 'Favoritos' en la barra de navegación en la parte superior de la página."
